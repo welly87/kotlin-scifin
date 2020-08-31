@@ -1,4 +1,4 @@
-package co.scifin
+package co.scifin.ws
 
 import io.ktor.application.*
 import io.ktor.client.*
